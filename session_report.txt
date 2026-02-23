@@ -1,0 +1,6 @@
+Interview Analysis Report
+--------------------------
+Session Duration: 82 seconds
+Final Confidence: 45%
+Final Stress: 21%
+Total Frames Analyzed: 1267
